@@ -63,6 +63,8 @@ Throughout this project, I've had the chance to:
 
 [ Dashboard](https://drive.google.com/file/d/1h30yQ-tukzdef7TLYNqnkKJKS_5BZZmr/view?usp=sharing)
 
+![HR Analytics dashboard](https://github.com/ruchi020897/HR-Analytics-Dashboard-using-Power-BI-/assets/96762852/b3e1391f-053b-45fa-8c0a-194edb4a40b8)
+
 
 
    
